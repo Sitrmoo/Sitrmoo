@@ -1,4 +1,4 @@
-# Sitrmoo
+# Cyrus
 
 **A passionate learner exploring the world of web development and programming.**
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Contact & Connect
+## Contact
 
 <p align="center">
   <a href="mailto:hi@sitrmoo.com">
